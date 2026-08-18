@@ -4,4 +4,6 @@ excerpt: "The CampusGANDR mobile application is being developed for the HeadsUp!
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+This work has been published as:
+
+Labrie, J. W., Boyle, S. C., Trager, B. M., Hall, N. A., Rainosek, L. M., Hatch, O. J., West, M. J., ... & Neighbors, C. (2025). When less is more: Short-Term efficacy of a gamified personalized normative feedback intervention for college students. *Addictive Behaviors*, 163, 108247. [[link]](/publication/Labrie2025)

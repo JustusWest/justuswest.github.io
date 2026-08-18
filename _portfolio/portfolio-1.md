@@ -4,4 +4,10 @@ excerpt: "In this paper, published in the Journal of Autism and Developmental Di
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+This work has been published as:
+
+West, M., Tincani, M., Hantula, D., Hong, S. R., Vucetic, S., & Dragut, E. (2025). Applying Data Science Practices to Identify Characteristics of Postsecondary Autism Support Programs From Their Websites. *Journal of Autism and Developmental Disorders*, 1-47. [[link]](/publication/JADD2025)
+
+West, M., Dragut, E. (2026). A Demo of Interactive Thematic Data Collection on the Live Web. In *VLDB 2026 - 52nd International Conference on Very Large Data Bases*. [[link]](/publication/VLDB2026Demo)
+
+West, M., Kostin, K., Tincani, M., Hantula, D., & Dragut, E. (2026). Evaluating Autism Support Programs in Higher Education Through the Perspectives of Students, Parents, Counselors and Staff. *In Review*. [[link]](/publication/AutismInReview2026)

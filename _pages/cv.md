@@ -43,24 +43,6 @@ redirect_from:
 - Fall 2022: Introduction to Mobile Application Development, Teaching Assistant, Temple University
 - Fall 2020 - Spring 2021: Principles of Engineering, Teacher, Saint John Vianney High School
 
-# Skills
-
-- Proficient in the following programming languages:
-  - Python
-  - Javascript / Typescript
-    - React / React Native frameworks
-  - Java
-  - C++
-  - C
-- Experience with the following technologies:
-  - Large language models and NLP pipelines (BERT, doc2vec, GPT-family models)
-  - PyTorch
-  - Google Cloud Platform
-    - AutoML
-    - Cloud Vision
-    - Firebase
-  - React + React Native
-
 # Service and leadership
 
 - Fall 2023 - present: Graduate Student Representative, Dean's Advisory Committee, College of Science and Technology, Temple University
