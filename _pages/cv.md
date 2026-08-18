@@ -9,31 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+# Academic appointments
+
+- August 2026 - present: Visiting Assistant Teaching Professor, Department of Computer Science, Widener University
+
 # Education
 
-- PhD Student, Temple University - Expected Graduation Spring 2026
+- Ph.D., Computer and Information Science, Temple University, August 2026
+  - Advisor: Dr. Eduard Dragut
 
-- B.S. in Computer Science and Psychology, Loyola Marymount University, 2020
+- B.S., Computer Science (Dual Major in Psychology), Loyola Marymount University, May 2020
 
-# Work experience
-- Fall 2021 - Present: PhD Student and Research Assistant, Temple University
-  - Advisor: Eduard Dragut 
+# Research experience
 
-- Fall 2020 - Spring 2021: Physics and Engineering Teacher, Saint John Vianney High School
+- Fall 2021 - Spring 2026: Temple University, Department of Computer and Information Science
+  - Advisor: Dr. Eduard Dragut
+  - Worked on an interdisciplinary NSF grant aimed at leveraging AI to improve vocational and educational outcomes for autistic adults.
+  - Developed a state-of-the-art focused crawling framework to identify post-secondary autism support programs for autistic students.
+  - Interviewed 34 students, parents and staff to examine the landscape of autism support programs, how students discover these programs and how they serve students.
 
-- Fall 2018 - Fall 2021: Research Assistant, HeadsUp! Lab
+- 2018-2020: Loyola Marymount University, Departments of Psychology and Computer Science
+  - Supervisors: Dr. Joseph LaBrie, Dr. Andrew Forney
+  - Led undergraduate development team to build cross platform mobile application, CampusGANDR, to deliver personalized normative feedback to first year college students.
+  - Oversaw deployment of mobile app to three cohorts of participants across 21 campuses.
+  - Utilized the Google Cloud Platform to develop cloud based machine vision tools for image analysis.
+  - Personal research project utilizing Reinforcement Learning agents in the Iterated Prisoner's Dilemma, supervised by Dr. Andrew Forney.
 
-  - Loyola Marymount University
-  - Duties included: Developed software to assist in a variety of projects researching alcohol use.
-    - Utilized the Google Cloud Platform to develop cloud based machine vision tools for image analysis.
-    - CampusGANDR: Managed a team of seven undergraduates in the development of a React Native app, for use in NIH funded research. Deployed and managed the app on iOS and Andriod for two cohorts of research subjects, totaling over 1200 users.
-  - Supervisor: Dr. Joseph LaBrie
+# Teaching experience
 
-- Summer 2019: Summer Opportunities for Advanced Research
-
-  - Loyola Marymount University
-  - Duties included: A personal research project utilizing Reinforcement Learning agents in the Iterated Prisoner's Dilemma
-  - Supervisor: Dr. Andrew Forney
+- Spring 2026: Data Structures, Instructor, Temple University
+- Spring, Fall 2025: Graduate Student Seminar: Core NLP Principles and LLMs, Co-Lead, Temple University
+- Fall 2025: Software Development, Teaching Assistant, Temple University
+- Fall 2022: Introduction to Mobile Application Development, Teaching Assistant, Temple University
+- Fall 2020 - Spring 2021: Principles of Engineering, Teacher, Saint John Vianney High School
 
 # Skills
 
@@ -45,7 +53,7 @@ redirect_from:
   - C++
   - C
 - Experience with the following technologies:
-  - BERT, doc2vec and GPT3.5
+  - Large language models and NLP pipelines (BERT, doc2vec, GPT-family models)
   - PyTorch
   - Google Cloud Platform
     - AutoML
@@ -55,12 +63,12 @@ redirect_from:
 
 # Service and leadership
 
-- President, College of Science and Technology Graduate Student Organization - (Summer 2023 - Present)
-  - As President of the CST-GSO I organize social, networking and professional development events for fellow graduate students, manage communications between the executive board and members, and manage the organizations affiliation and status with the university.
+- Fall 2023 - present: Graduate Student Representative, Dean's Advisory Committee, College of Science and Technology, Temple University
+  - I serve as the representative for graduate students on the committee to advise the Dean. I provide input on college affairs and bring any concerns from fellow students to the Dean's attention.
 
-- Graduate Student Representative, Dean's Advisory Comittee - (Fall 2023 - Present)
-  - I serve as the representative for graduate students on the comittee to advise Dean Miguel Mostafa. I provide input on college affairs and bring any concerns from fellow students to the Dean's attention.
+- Spring 2023 - present: President, College of Science and Technology Graduate Student Organization, Temple University
+  - As President of the CST-GSO I organize social, networking and professional development events for fellow graduate students, manage communications between the executive board and members, and manage the organization's affiliation and status with the university.
 
 - Lieutenant Lifeguard, Monmouth County Park System (Summer 2015 - 2019)
   - Managed lifeguard stand at a popular beach in Monmouth County, New Jersey
-    - Oversaw open water resecues, first aid administration and general pulic safter tasks
+    - Oversaw open water rescues, first aid administration and general public safety tasks

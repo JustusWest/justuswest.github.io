@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Michael West"
 title_separator: "-"
 name: &name "Michael West"
-description: &description "PhD Student at Temple University"
+description: &description "Visiting Assistant Teaching Professor, Widener University"
 url: https://justuswest.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "justuswest.github.io"
@@ -79,13 +79,13 @@ analytics:
 # Site Author
 author:
   name: "Michael West"
-  avatar: "MichaelWestBioPic.jpg"
-  bio: "PhD Student in CIS, Temple University"
-  location: "Philadelphia, PA"
-  employer:
+  avatar: "profile_pic.jpg"
+  bio: "Visiting Assistant Teaching Professor, Widener University"
+  location: "Chester, PA"
+  employer: "Widener University"
   pubmed:
   googlescholar:
-  email: "tuo95818@temple.edu"
+  email: "mjwest@widener.edu"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -101,7 +101,7 @@ author:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin:
-  orcid:
+  orcid: "0000-0002-6203-8712"
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
