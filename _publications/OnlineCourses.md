@@ -1,6 +1,7 @@
 ---
 title: "What do students want to know while taking massive open online courses? Examining massive open online course students’ needs based on online forum discussions from the Universal Design for Learning approach"
 collection: publications
+pubtype: conference
 permalink: /publication/OnlineCourses
 excerpt: 'Topic modeling of forum discussion posts from Massive Open Online Courses.'
 date: 2023-03-28

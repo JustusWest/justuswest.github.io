@@ -8,4 +8,4 @@ date: 2026-01-01
 location: "Philadelphia, PA"
 ---
 
-Instructor for Data Structures, an undergraduate course covering core data structures and their implementation and analysis.
+Instructor of Record for Data Structures, an undergraduate course covering core data structures and their implementation and analysis.

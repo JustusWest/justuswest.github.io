@@ -79,13 +79,13 @@ analytics:
 # Site Author
 author:
   name: "Michael West"
-  avatar: "profile_pic.jpg"
+  avatar: "profile_pic.jpeg"
   bio: "Visiting Assistant Teaching Professor, Widener University"
   location: "Philadelphia, PA"
   employer: "Widener University"
   pubmed:
-  googlescholar:
-  email: "mjwest@widener.edu"
+  googlescholar: "https://scholar.google.com/citations?user=BGlbVXIAAAAJ&hl=en"
+  email: "mj{last_name}@widener.edu" # shown as plain text (no mailto link) to deter scrapers
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -101,7 +101,7 @@ author:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin:
-  orcid: "0000-0002-6203-8712"
+  orcid: "https://orcid.org/0000-0002-6203-8712"
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username

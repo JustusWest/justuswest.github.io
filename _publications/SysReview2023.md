@@ -1,6 +1,7 @@
 ---
 title: "Vocational Interventions for Individuals with ASD: Umbrella Review"
 collection: publications
+pubtype: journal
 permalink: /publication/UmbrellaReview
 excerpt: 'A systematic review of vocational interventions for transition aged autistic individuals.'
 date: 2024-01-01
